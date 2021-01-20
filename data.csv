@@ -1,0 +1,5 @@
+TagName, Type, Value
+Boiler.P1.Value, Float, 3.4
+Boiler.P2.Value, Float, 3.2
+Boiler.T1.SP,  Int, 83
+A.sort.test,  Int, 83
